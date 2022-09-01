@@ -56,5 +56,5 @@
         "clocale": "cpp",
         "ctime": "cpp"
     },
-    "python.pythonPath": "C:\\Program Files\\Python39\\python.exe"
+    "C_Cpp.errorSquiggles": "Disabled"
 }
