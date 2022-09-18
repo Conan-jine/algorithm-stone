@@ -40,46 +40,46 @@
 ### Tree路线图
 
 1. [动画红黑树，旋转的艺术](https://mp.weixin.qq.com/s/2AfnnCALekwo4K_okRdpNg)  
-![动画红黑树，旋转的艺术]("https://github.com/Conan-jine/algorithm-stone/main/images/leetcode_tree.svg")
+![动画红黑树，旋转的艺术]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_tree.svg")
 
 ### 动态规划路线图
 
-![动态规划路线图]("https://github.com/Conan-jine/algorithm-stone/main/images/leetcode_dp.svg")
+![动态规划路线图]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_dp.svg")
 
 ### 并查集路线图
 
-![并查集路线图]("https://github.com/Conan-jine/algorithm-stone/main/images/leetcode_union_find.svg")
+![并查集路线图]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_union_find.svg")
 
 ### 堆栈队列路线图
 
 1. [算法动画秒懂并查集](https://mp.weixin.qq.com/s/rF5bohHf3XfstGkjBawBuw)
 2. [动画解说单调栈](https://mp.weixin.qq.com/s/XsYD1lkiILcMcd3_vRws7A)  
 3. [滑动窗口入门](https://mp.weixin.qq.com/s/InpmYAfeesc7MHMCV50b-Q)  
-![堆栈队列路线图]("https://github.com/Conan-jine/algorithm-stone/main/images/leetcode_heap_stack_queue.svg")
+![堆栈队列路线图]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_heap_stack_queue.svg")
 
 ### 链表路线图
 
-![链表路线图]("https://github.com/Conan-jine/algorithm-stone/main/images/leetcode_linked_list.svg")
+![链表路线图]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_linked_list.svg")
 
 ### 二分查找
 
-![二分查找]("https://github.com/Conan-jine/algorithm-stone/main/images/leetcode_binary_search.svg")
+![二分查找]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_binary_search.svg")
 
 ### 几何题路线图
 
-![几何题路线图]("https://github.com/Conan-jine/algorithm-stone/main/images/leetcode_geometry.svg")
+![几何题路线图]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_geometry.svg")
 
 ### 小众题路线图
 
-![小众题路线图]("https://github.com/Conan-jine/algorithm-stone/main/images/leetcode_mini.svg")
+![小众题路线图]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_mini.svg")
 
 ### Codeforces Div.3 Div.2路线图
 
-![Codeforces Div.3 Div.2路线图]("https://github.com/Conan-jine/algorithm-stone/main/images/codeforces.svg")
+![Codeforces Div.3 Div.2路线图]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/codeforces.svg")
 
 ## 安装开发环境
 
-详细的开发说明参考：[开发文档](https://github.com/Conan-jine/algorithm-stone/blob/main/docs/dev_zh.md)
+详细的开发说明参考：[开发文档](https://github.com/Conan-jine/algorithm-stone/blob/docs/dev_zh.md)
 
 ### Leetcode规划模块
 
