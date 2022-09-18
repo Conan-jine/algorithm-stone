@@ -20,62 +20,20 @@
 
 ## 新手入门-算法书籍推荐
 
-[01.数据结构与算法分析-C语言描述 详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)
-[02.算法设计与分析基础  第3版 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)
-[03.算法引论：一种创造性方法 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)
+[01.数据结构与算法分析-C语言描述 详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)  
+[02.算法设计与分析基础  第3版 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)  
+[03.算法引论：一种创造性方法 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)  
 [04.编程原本 详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)
-[05.C语言接口与实现：创建可重用软件的技术 详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)
-[06.算法导论中文第三版 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)
-[06.算法导论英文第三版 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)
-[07.算法中文第4版 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)
-[07.算法英文第4版 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)
-[08.算法竞赛入门经典第2版 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)
-[09.挑战程序设计竞赛1第2版 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)
-[10.挑战程序设计竞赛2 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)
-[11.算法竞赛进阶指南 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)
-[12.漫画算法-小灰的算法之旅 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)
-
-## Leetcode路线图合集
-
-### Tree路线图
-
-1. [动画红黑树，旋转的艺术](https://mp.weixin.qq.com/s/2AfnnCALekwo4K_okRdpNg)  
-![动画红黑树，旋转的艺术]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_tree.svg")
-
-### 动态规划路线图
-
-![动态规划路线图]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_dp.svg")
-
-### 并查集路线图
-
-![并查集路线图]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_union_find.svg")
-
-### 堆栈队列路线图
-
-1. [算法动画秒懂并查集](https://mp.weixin.qq.com/s/rF5bohHf3XfstGkjBawBuw)
-2. [动画解说单调栈](https://mp.weixin.qq.com/s/XsYD1lkiILcMcd3_vRws7A)  
-3. [滑动窗口入门](https://mp.weixin.qq.com/s/InpmYAfeesc7MHMCV50b-Q)  
-![堆栈队列路线图]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_heap_stack_queue.svg")
-
-### 链表路线图
-
-![链表路线图]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_linked_list.svg")
-
-### 二分查找
-
-![二分查找]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_binary_search.svg")
-
-### 几何题路线图
-
-![几何题路线图]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_geometry.svg")
-
-### 小众题路线图
-
-![小众题路线图]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/leetcode_mini.svg")
-
-### Codeforces Div.3 Div.2路线图
-
-![Codeforces Div.3 Div.2路线图]("https://github.com/Conan-jine/algorithm-stone/blob/main/images/codeforces.svg")
+[05.C语言接口与实现：创建可重用软件的技术 详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)  
+[06.算法导论中文第三版 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)  
+[06.算法导论英文第三版 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)  
+[07.算法中文第4版 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)  
+[07.算法英文第4版 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)  
+[08.算法竞赛入门经典第2版 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)  
+[09.挑战程序设计竞赛1第2版 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)  
+[10.挑战程序设计竞赛2 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)  
+[11.算法竞赛进阶指南 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)  
+[12.漫画算法-小灰的算法之旅 高清详细书签.pdf](https://www.aliyundrive.com/s/wKKdv4XAazq)  
 
 ## 安装开发环境
 
