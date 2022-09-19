@@ -3,51 +3,65 @@
 #### 安装开发环境
 
 ###### Windows开发
+
 1 安装python3.9  
 2 打开vscode，打开terminal，使用windowns的cmd  
 3 安装python库，执行如下命令  
+
 ```shell
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 4 安装graphviz-4.6.1，记得添加到PATH中  
 5 在根目录执行  
+
 ```shell
 python src/main.py
 ```
 
 ###### Linux开发（Ubuntu)
+
 1 安装python3.9和pip3，请自行google如何安装  
 2 安装python库，执行如下命令  
+
 ```shell
 pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 4 安装graphviz-4.6.1，建议直接采用源码安装，安装完成后检查版本：
+
 ```
 dot -v
 ```
+
 5 在根目录执行  
+
 ```shell
 python3 src/main.py
 ```
 
 ###### Mac开发
+
 1 安装python3.9和pip3，建议直接在python官网下载安装包
+
 ```shell
 pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 4 安装graphviz-4.6.1，建议直接采用源码安装，安装完成后检查版本：
+
 ```
 dot -v
 ```
+
 5 在根目录执行  
+
 ```shell
 python3 src/main.py
 ```
 
 #### 如何调试
+
 在vscode中安装python插件，直接按F5键即可开始调试
 
 #### 目录说明
@@ -70,7 +84,9 @@ map文件中对于主模块是[xxx]，对于子模块是[-xxx]，然后子模块
 #### 如何参与该项目
 
 #### query工具使用说明
+
 在根目录输入：
+
 ``` shell
 python3 src/query.py
 ```
@@ -78,14 +94,15 @@ python3 src/query.py
 可以看到查询命令
 
 查询tree的所有题目可以输入：
+
 ```
 leetcode tag tree
 ```
 
 查询tree的所有简单题目可以输入：
+
 ```
 leetcode tag tree easy
 ```
 
 query命令非常方便查询不同tag的题目id
-

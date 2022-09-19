@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.m": "matlab",
         "vector": "cpp",
         "utility": "cpp",
         "limits": "cpp",
@@ -54,7 +55,9 @@
         "unordered_map": "cpp",
         "bit": "cpp",
         "clocale": "cpp",
-        "ctime": "cpp"
+        "ctime": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
