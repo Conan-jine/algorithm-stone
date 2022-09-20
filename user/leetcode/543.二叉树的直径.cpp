@@ -19,9 +19,22 @@
 class Solution
 {
 public:
+    int ans = 0;
+
+    int findDiameter(TreeNode * root)
+    {
+        if(root == nullptr) return 0;
+        int leftDepth = findDiameter(root->left);
+        int rightDepth = findDiameter(root->right);
+        ans = max(ans, 1 + leftDepth + rightDepth);
+        return max(leftDepth, rightDepth) + 1;
+    }
+
     int diameterOfBinaryTree(TreeNode *root)
     {
-        
+        findDiameter(root);
+        return ans - 1;
     }
+    
 };
 // @lc code=end
