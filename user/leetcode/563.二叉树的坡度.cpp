@@ -16,11 +16,25 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
+class Solution
+{
 public:
-    int findTilt(TreeNode* root) {
+    int ans = 0;
 
+    int count(TreeNode *root)
+    {
+        if (root == nullptr)
+            return 0;
+        int leftNum = count(root->left);
+        int rightNum = count(root->right);
+        ans += abs(leftNum - rightNum);
+        return root->val + leftNum + rightNum;
+    }
+
+    int findTilt(TreeNode *root)
+    {
+        count(root);
+        return ans;
     }
 };
 // @lc code=end
-

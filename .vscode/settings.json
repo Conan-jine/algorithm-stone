@@ -57,7 +57,18 @@
         "clocale": "cpp",
         "ctime": "cpp",
         "chrono": "cpp",
-        "complex": "cpp"
+        "complex": "cpp",
+        "bitset": "cpp",
+        "barrier": "cpp",
+        "random": "cpp",
+        "latch": "cpp",
+        "semaphore": "cpp",
+        "valarray": "cpp",
+        "string_view": "cpp",
+        "array": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "regex": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
