@@ -30,7 +30,7 @@ pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 4 安装graphviz-4.6.1，建议直接采用源码安装，安装完成后检查版本：
 
-```
+```bash
 dot -v
 ```
 
